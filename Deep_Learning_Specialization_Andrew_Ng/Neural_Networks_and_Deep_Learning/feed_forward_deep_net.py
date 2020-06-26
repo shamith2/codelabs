@@ -2,6 +2,7 @@
 """
 Created on Sun May 24 22:40:36 2020
 Sequential Feed Forward Deep Neural Network for Binary Classification
+From Neural Networks and Deep Learning Course by Andrew Ng
 @author: Shamith Achanta
 """
     
