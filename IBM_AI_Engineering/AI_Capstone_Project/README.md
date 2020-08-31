@@ -1,1 +1,1 @@
-## Course 5 - IBM AI Capstone Project
+## Course 6 - IBM AI Capstone Project
